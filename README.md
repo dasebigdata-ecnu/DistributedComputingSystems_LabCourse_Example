@@ -12,6 +12,8 @@
 
 ## [实验八 Spark 编程](SparkDemo)
 
+[词频统计_Java版](SparkDemo/src/main/java/cn/edu/ecnu/spark/example/java/wordcount)
+[词频统计_Scala版](SparkDemo/src/main/scala/cn/edu/ecnu/spark/example/scala/wordcount)
 
 ## [实验十一 Storm 编程](StormDemo)
 
