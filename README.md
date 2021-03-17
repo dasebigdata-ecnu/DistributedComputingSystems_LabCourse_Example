@@ -2,6 +2,6 @@
 
 ## [实验五 HDFS 2.x 编程](HDFSFileDemo)
 
-[上传文件](HDFSFileDemo/src/main/java/cn/edu/ecnu/hdfs/example/java/fileup/Writer)
+[上传文件](HDFSFileDemo/src/main/java/cn/edu/ecnu/hdfs/example/java/fileupload/Writer)
 
 ## [第6章 MapReduce编程](MapReduceDemo)
