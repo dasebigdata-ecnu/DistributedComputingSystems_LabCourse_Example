@@ -1,0 +1,13 @@
+*/.*
+*/logs/*
+*/target/*
+*.iml
+*/.idea/*
+*/output/*
+*/out/*
+*/classes/*
+.idea/
+*/META-INF/*
+*/spark_output/*
+*/input/*
+*/sparkstreaming_output/*
