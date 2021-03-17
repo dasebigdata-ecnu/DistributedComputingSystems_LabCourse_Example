@@ -1,3 +1,5 @@
+package cn.edu.ecnu.spark.example.java.wordcount;
+
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
