@@ -28,8 +28,10 @@
 
 ## [实验十四 Flink 编程](FlinkDemo)
 
-[词频统计](FlinkDemo/src/main/java/cn/edu/ecnu/flink/example/java/wordcount)
+[词频统计_Java版](FlinkDemo/src/main/java/cn/edu/ecnu/flink/example/java/wordcount)
 
+
+[词频统计_Scala版](FlinkDemo/src/main/scala/cn/edu/ecnu/flink/example/scala/wordcount)
 
 ## [实验十七 Giraph 编程](GiraphDemo)
 
