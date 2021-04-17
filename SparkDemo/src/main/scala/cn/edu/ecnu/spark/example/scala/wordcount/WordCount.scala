@@ -2,7 +2,7 @@ package cn.edu.ecnu.spark.example.scala.wordcount
 
 import org.apache.spark.{SparkConf, SparkContext}
 
-class WordCount {
+object WordCount {
 
   def run(args: Array[String]): Unit = {
     /* 步骤1：通过SparkConf设置配置信息，并创建SparkContext */
